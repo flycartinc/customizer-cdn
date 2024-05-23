@@ -1,49 +1,54 @@
-[{
-  "name": "Email Customizer: Booking Compatibility",
-  "description": "This add-on allow booking email template design.",
-  "icon_url": "",
-  "download_url": "",
-  "plugin_file": "",
-  "document_url": "",
-  "page_url": "{addon_page}",
-  "requires": {
-    "wp": "",
-    "wc": "",
-    "eca_core": "",
-    "eca_pr0": ""
+{
+  "ebc-booking-compatibility": {
+    "name": "Email Customizer: Booking Compatibility",
+    "description": "This add-on allow booking email template design.",
+    "icon_url": "",
+    "download_url": "",
+    "plugin_file": "",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pr0": ""
+    },
+    "is_pro": true,
+    "is_external": false
   },
-  "is_pro": true,
-  "is_external": false
-}, {
-  "name": "Email Customizer: WPLoyalty Compatibility",
-  "description": "This add-on allow WPLoyalty email template design.",
-  "icon_url": "",
-  "download_url": "",
-  "plugin_file": "",
-  "document_url": "",
-  "page_url": "{addon_page}",
-  "requires": {
-    "wp": "",
-    "wc": "",
-    "eca_core": "",
-    "eca_pr0": ""
+  "wlc-loyalty-compatibility": {
+    "name": "Email Customizer: WPLoyalty Compatibility",
+    "description": "This add-on allow WPLoyalty email template design.",
+    "icon_url": "",
+    "download_url": "",
+    "plugin_file": "",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pr0": ""
+    },
+    "is_pro": true,
+    "is_external": false
   },
-  "is_pro": true,
-  "is_external": false
-},{
-  "name": "Email Customizer: Subscription Compatibility",
-  "description": "This add-on allow subscription email template design.",
-  "icon_url": "",
-  "download_url": "",
-  "plugin_file": "",
-  "document_url": "",
-  "page_url": "{addon_page}",
-  "requires": {
-    "wp": "",
-    "wc": "",
-    "eca_core": "",
-    "eca_pr0": ""
-  },
-  "is_pro": true,
-  "is_external": false
-}]
+  "esc-subscription-compatibility": {
+    "name": "Email Customizer: Subscription Compatibility",
+    "slug": "esc-subscription-compatibility",
+    "description": "This add-on allow subscription email template design.",
+    "icon_url": "",
+    "download_url": "",
+    "plugin_file": "",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pr0": ""
+    },
+    "is_pro": true,
+    "is_external": false
+  }
+}
