@@ -11,6 +11,7 @@
     "plugin_file": "wdr-translate/wdr-translate.php",
     "page_url": "{addon_page}",
     "settings_url": "",
+    "is_external": true,
     "requires": {
       "wp": "5.3",
       "wc": "4.4",
@@ -43,6 +44,7 @@
     "plugin_file": "wdr-multi-currency-compatibility/wdr-multi-currency-compatibility.php",
     "page_url": "{addon_page}",
     "settings_url": "",
+    "is_external": true,
     "requires": {
       "wp": "5.3",
       "wc": "4.4",
@@ -90,6 +92,7 @@
     "plugin_file": "wdr-wpml-compatibility/wdr-wpml-compatibility.php",
     "page_url": "",
     "settings_url": "",
+    "is_external": true,
     "requires": {
       "wp": "5.3",
       "wc": "4.4",
