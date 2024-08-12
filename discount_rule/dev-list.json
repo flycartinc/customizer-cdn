@@ -118,7 +118,7 @@
     "addon_url": "https://www.flycart.org/discount-rules-add-ons",
     "download_url": "",
     "plugin_file": "wdr-filter-collections/wdr-filter-collections.php",
-    "page_url": "",
+    "page_url": "{addon_page}",
     "settings_url": "",
     "is_external": true,
     "requires": {
@@ -140,7 +140,7 @@
     "addon_url": "https://www.flycart.org/discount-rules-add-ons",
     "download_url": "",
     "plugin_file": "wdr-wholesale-prices-compatibility/wdr-wholesale-prices-compatibility.php",
-    "page_url": "",
+    "page_url": "{addon_page}",
     "settings_url": "",
     "is_external": true,
     "requires": {
