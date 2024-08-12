@@ -108,7 +108,7 @@
     },
     "is_pro": false
   },
-  "collections": {
+  "wdr-filter-collections": {
     "name": "Collection Filter",
     "label": "Compatibility",
     "author": "Flycart",
