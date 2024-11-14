@@ -1,10 +1,10 @@
 {
-  "ebc-booking-compatibility": {
-    "name": "WooCommerce Bookings",
-    "description": "Adds support for customizing emails sent by WooCommerce Booking plugin.",
-    "icon_url": "",
+  "edpw-woocommerce-appointment-compatibility": {
+    "name": "WooCommerce Appointments",
+    "description": "Adds support for customizing emails sent by WooCommerce Appointments.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-appointment-compatibility/edpw-woocommerce-appointment-compatibility.png",
     "download_url": "",
-    "plugin_file": "",
+    "plugin_file": "edpw-woocommerce-appointment-compatibility/edpw-woocommerce-appointment-compatibility.php",
     "document_url": "",
     "page_url": "{addon_page}",
     "requires": {
@@ -14,64 +14,13 @@
       "eca_pro": ""
     },
     "dependencies": {
-      "booking": {
-        "name": "WooCommerce Bookings",
-        "url": "https://woocommerce.com/products/woocommerce-bookings/",
-        "file": "woocommerce-bookings/woocommerce-bookings.php"
+      "woo_appointments": {
+        "name": "WooCommerce Appointments",
+        "url": "https://bookingwp.com/",
+        "file": "woocommerce-appointments/woocommerce-appointments.php"
       }
     },
     "is_pro": true,
-    "is_external": false
-  },
-  "wlc-loyalty-compatibility": {
-    "name": "WPLoyalty",
-    "description": "Adds support for customizing emails sent by WPLoyalty plugin.",
-    "icon_url": "",
-    "download_url": "",
-    "plugin_file": "",
-    "document_url": "",
-    "page_url": "{addon_page}",
-    "requires": {
-      "wp": "",
-      "wc": "",
-      "eca_core": "",
-      "eca_pro": ""
-    },
-    "dependencies": {
-      "loyalty": {
-        "name": "WPLoyalty - WooCommerce Loyalty Points, Rewards and Referral",
-        "url": "https://wployalty.net/",
-        "file": {
-          "WPLoyaltyPro": "wp-loyalty-rules/wp-loyalty-rules.php",
-          "WPLoyaltyFree": "wployalty/wp-loyalty-rules-lite.php"
-        }
-      }
-    },
-    "is_pro": true,
-    "is_external": false
-  },
-  "esc-subscription-compatibility": {
-    "name": "WooCommerce Subscriptions",
-    "description": "Adds support for customizing emails sent by WooCommerce Subscriptions plugin.",
-    "icon_url": "",
-    "download_url": "",
-    "plugin_file": "",
-    "document_url": "",
-    "page_url": "{addon_page}",
-    "requires": {
-      "wp": "",
-      "wc": "",
-      "eca_core": "",
-      "eca_pro": ""
-    },
-    "dependencies": {
-      "subscription": {
-        "name": "Woo Subscriptions",
-        "url": "https://woocommerce.com/products/woocommerce-subscriptions/",
-        "file": "woocommerce-subscriptions/woocommerce-subscriptions.php"
-      }
-    },
-    "is_pro": true,
-    "is_external": false
+    "is_external": true
   }
 }
