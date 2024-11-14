@@ -6,7 +6,7 @@
     "download_url": "",
     "plugin_file": "edpw-woocommerce-appointment-compatibility/edpw-woocommerce-appointment-compatibility.php",
     "document_url": "",
-    "page_url": "{addon_page}",
+    "page_url": "",
     "requires": {
       "wp": "",
       "wc": "",
