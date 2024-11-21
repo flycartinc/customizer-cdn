@@ -22,5 +22,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woocommerce-order-status-manager": {
+    "name": "WooCommerce Order Status Manager",
+    "description": "Adds support for customizing emails sent by WooCommerce Order Status Manager.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-order-status-manager/edpw-woocommerce-order-status-manager.png",
+    "download_url": "",
+    "plugin_file": "edpw-woocommerce-order-status-manager/edpw-woocommerce-order-status-manager.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "woo_appointments": {
+        "name": "WooCommerce Order Status Manager",
+        "url": "https://bookingwp.com/",
+        "file": "woocommerce-order-status-manager/woocommerce-order-status-manager.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
