@@ -40,7 +40,7 @@
     "dependencies": {
       "woo_appointments": {
         "name": "WooCommerce Order Status Manager",
-        "url": "https://bookingwp.com/",
+        "url": "https://woocommerce.com/products/woocommerce-order-status-manager/",
         "file": "woocommerce-order-status-manager/woocommerce-order-status-manager.php"
       }
     },
