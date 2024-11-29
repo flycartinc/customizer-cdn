@@ -38,7 +38,7 @@
       "eca_pro": ""
     },
     "dependencies": {
-      "woo_appointments": {
+      "woocommerce-order-status-manager": {
         "name": "WooCommerce Order Status Manager",
         "url": "https://woocommerce.com/products/woocommerce-order-status-manager/",
         "file": "woocommerce-order-status-manager/woocommerce-order-status-manager.php"
@@ -62,7 +62,7 @@
       "eca_pro": ""
     },
     "dependencies": {
-      "woo_appointments": {
+      "bp-custom-order-status-for-woocommerce": {
         "name": "WooCommerce Custom Order Status Manager",
         "url": "https://brightplugins.com/free-plugin/custom-order-status-for-woocommerce",
         "file": "bp-custom-order-status-for-woocommerce/main.php"
