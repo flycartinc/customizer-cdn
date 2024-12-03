@@ -1,1 +1,58 @@
-{}
+{
+  "discount_rules": {
+    "name": "Discount Rules for WooCommerce - PRO",
+    "author": "Flycart",
+    "description": "Create a variety of discount offers in WooCommerce to drive conversions. Easily set up discounts based on product categories, user-roles, and more for a tailored shopping experience.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/discount-rules.png",
+    "plugin_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "spark_editor": {
+    "name": "Spark Email Editor",
+    "author": "emaileditorplus",
+    "description": "Create awesome transactional emails with a drag and drop email builder.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/spark-email-editor.png",
+    "plugin_url": "https://sparkeditor.com/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "wployalty": {
+    "name": "WPLoyalty - Points & Rewards for WooCommerce",
+    "author": "wployalty",
+    "description": "Lets you create custom WooCommerce loyalty programs with points, rewards, and exclusive offers. Engage customers, boost retention, and drive repeat purchases.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/wployalty.png",
+    "plugin_url": "https://wployalty.net/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "side_cart": {
+    "name": "Side Cart by UpsellWP",
+    "author": "UpsellWP",
+    "description": "Allow customers to easily manage their purchases and discover upsell opportunities with a visible and accessible sliding widget on your WooCommerce store.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/side-cart.png",
+    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "wpbundle": {
+    "name": "WPBundle PRO",
+    "author": "WPBundle",
+    "description": "Boost your store revenue by presenting product bundles to your customers.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/wpbundle.png",
+    "plugin_url": "https://wpbundle.net/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "wp_relay": {
+    "name": "WPRelay - Affiliate marketing",
+    "author": "WPRelay",
+    "description": "Automate and manage your WooCommerce affiliate program effortlessly. Create powerful, customizable affiliate campaigns, streamline sign-ups, track commissions, and ensure smooth payouts—all from one dashboard.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/wprelay.png",
+    "plugin_url": "https://wprelay.com/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "retainful": {
+    "name": "Retainful - Abandoned Cart Recovery",
+    "author": "Retainful",
+    "description": "Do life-cycle WooCommerce email marketing with Retainful - grow email list, nurture and retain customers through automation & email campaigns.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/retainful.png",
+    "plugin_url" : "https://www.retainful.com/?utm_campaign=recommended&utm_source=upsellwp&utm_medium={site-name}"
+  },
+  "airlift": {
+    "name": "Airlift",
+    "author": "wpremote",
+    "description": "Effortlessly boost your site's speed and performance with a single click, right from your dashboard.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/airlift.svg",
+    "plugin_url": "https://airlift.net/"
+  }
+}
