@@ -70,5 +70,32 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woocommerce-germanized": {
+    "name": "WooCommerce Germanized",
+    "description": "Adds support for customizing emails sent by WooCommerce Germanized.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-germanized/edpw-woocommerce-germanized.png",
+    "download_url": "",
+    "plugin_file": "edpw-woocommerce-germanized/edpw-woocommerce-germanized.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "woocommerce-germanized": {
+        "name": "WooCommerce Germanized",
+        "url": "https://vendidero.de/woocommerce-germanized",
+        "file": {
+          "GermanizedPro": "woocommerce-germanized-pro/woocommerce-germanized-pro.php",
+          "GermanizedFree": "woocommerce-germanized/woocommerce-germanized.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
