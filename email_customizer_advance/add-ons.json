@@ -89,10 +89,7 @@
       "woocommerce-germanized": {
         "name": "WooCommerce Germanized",
         "url": "https://vendidero.de/woocommerce-germanized",
-        "file": {
-          "GermanizedPro": "woocommerce-germanized-pro/woocommerce-germanized-pro.php",
-          "GermanizedFree": "woocommerce-germanized/woocommerce-germanized.php"
-        }
+        "file": "woocommerce-germanized/woocommerce-germanized.php"
       }
     },
     "is_pro": true,
