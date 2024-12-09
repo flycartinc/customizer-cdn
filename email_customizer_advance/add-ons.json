@@ -118,5 +118,32 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-woocommerce-request-a-quote-premium": {
+    "name": "WooCommerce Back In Stock Notifications",
+    "description": "Adds support for customizing emails sent by WooCommerce Back In Stock Notifications.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-request-a-quote-premium/edpw-yith-woocommerce-request-a-quote-premium.png",
+    "download_url": "",
+    "plugin_file": "edpw-yith-woocommerce-request-a-quote-premium/edpw-yith-woocommerce-request-a-quote-premium.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-woocommerce-request-a-quote-premium": {
+        "name": "YITH Request a Quote for WooCommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-request-a-quote/",
+        "file": {
+          "yith-wc-request-pro": "yith-woocommerce-request-a-quote-premium/init.php",
+          "yith-wc-request": "yith-woocommerce-request-a-quote/yith-woocommerce-request-a-quote.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
