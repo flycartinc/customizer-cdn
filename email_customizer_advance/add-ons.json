@@ -1,4 +1,28 @@
 {
+  "ebct-booking-compatibility": {
+    "name": "WooCommerce Bookings",
+    "description": "Adds support for customizing emails sent by WooCommerce Booking plugin.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/ebct-booking-compatibility.png",
+    "download_url": "",
+    "plugin_file": "",
+    "document_url": "",
+    "page_url": "",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "booking": {
+        "name": "WooCommerce Bookings",
+        "url": "https://woocommerce.com/products/woocommerce-bookings/",
+        "file": "woocommerce-bookings/woocommerce-bookings.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": false
+  },
   "edpw-woocommerce-appointment-compatibility": {
     "name": "WooCommerce Appointments",
     "description": "Adds support for customizing emails sent by WooCommerce Appointments.",
