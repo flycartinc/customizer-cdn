@@ -220,5 +220,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-pw-gift-cards": {
+    "name": "PW Woocommerce Gift Cards",
+    "description": "Adds support for customizing emails sent by PW Woocommerce Gift Cards.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-pw-gift-cards/edpw-pw-gift-cards.png",
+    "download_url": "",
+    "plugin_file": "edpw-pw-gift-cards/edpw-pw-gift-cards.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "pw-gift-cards": {
+        "name": "PW WooCommerce Gift Cards",
+        "url": "https://www.pimwick.com/",
+        "file": "pw-gift-cards/pw-gift-cards.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
