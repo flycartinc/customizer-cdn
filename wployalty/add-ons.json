@@ -1,0 +1,21 @@
+{
+  "wp-loyalty-auto-currency": {
+    "name": "WPLoyalty - Multi Currency",
+    "description": "Adds multi-currency support for WPLoyalty with automatic currency conversion compatibility with 4 popular multicurrency plugins for WooCommerce",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-auto-currency/wp-loyalty-auto-currency.png",
+    "download_url": "",
+    "plugin_file": "wp-loyalty-auto-currency/wp-loyalty-auto-currency.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
+    },
+    "is_pro": false,
+    "is_external": true
+  }
+}
