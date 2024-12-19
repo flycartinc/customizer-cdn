@@ -1,0 +1,82 @@
+{
+  "mini_cart": {
+    "name": "Side Cart",
+    "author": "UpsellWP",
+    "version": "1.0.2",
+    "description": "Helpful to effortlessly add, view, and manage items on any pages in your store.",
+    "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-mini-cart/upsellwp-mini-cart.png",
+    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart",
+    "download_url": "https://downloads.wordpress.org/plugin/upsellwp-mini-cart.1.0.2.zip",
+    "plugin_file": "upsellwp-mini-cart/upsellwp-mini-cart.php",
+    "page_url": "{admin_url}admin.php?page=upsellwp-mini-cart",
+    "settings_url": "",
+    "wordpress_url": "https://wordpress.org/plugins/upsellwp-mini-cart",
+    "requires": {
+      "php": "7.2",
+      "wordpress": "5.3",
+      "woocommerce": "4.3",
+      "upsellwp": "2.1"
+    },
+    "is_pro": false
+  },
+  "buy_more_save_more": {
+    "name": "Buy More Save More",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Encourage your customers to buy more and save big with bulk purchase discounts.",
+    "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-buy-more-save-more/upsellwp-buy-more-save-more.png",
+    "plugin_url": "https://upsellwp.com/add-ons/buy-more-save-more/",
+    "download_url": "",
+    "plugin_file": "upsellwp-buy-more-save-more/upsellwp-buy-more-save-more.php",
+    "page_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=campaigns",
+    "settings_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=settings",
+    "wordpress_url": "",
+    "requires": {
+      "php": "7.0",
+      "wordpress": "5.3",
+      "woocommerce": "4.4",
+      "upsellwp_pro": "2.1.5"
+    },
+    "is_pro": true
+  },
+  "translation": {
+    "name": "Translation",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Useful to sync dynamic strings. Supported plugins: WPML and Loco Translate.",
+    "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-translation/upsellwp-translation.png",
+    "plugin_url": "https://upsellwp.com/add-ons/translation",
+    "download_url": "https://github.com/UpsellWP/upsellwp-translation/releases/download/v1.0.0/upsellwp-translation-1.0.0.zip",
+    "plugin_file": "upsellwp-translation/upsellwp-translation.php",
+    "page_url": "",
+    "settings_url": "",
+    "wordpress_url": "",
+    "requires": {
+      "php": "7.0",
+      "wordpress": "5.3",
+      "woocommerce": "4.3",
+      "upsellwp": "2.1"
+    },
+    "is_pro": false
+  },
+  "custom_taxonomy": {
+    "name": "Custom Taxonomy",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Useful to load custom product taxonomy filters and conditions.",
+    "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-custom-taxonomy/upsellwp-custom-taxonomy.png",
+    "plugin_url": "https://upsellwp.com/add-ons/custom-taxonomy",
+    "download_url": "https://github.com/upsellwp/upsellwp-custom-taxonomy/releases/download/v1.0.0/upsellwp-custom-taxonomy-1.0.0.zip",
+    "plugin_file": "upsellwp-custom-taxonomy/upsellwp-custom-taxonomy.php",
+    "page_url": "",
+    "settings_url": "",
+    "wordpress_url": "",
+    "requires": {
+      "php": "7.0",
+      "wordpress": "5.3",
+      "woocommerce": "4.3",
+      "upsellwp_pro": "2.1"
+    },
+    "is_pro": false
+  }
+}
