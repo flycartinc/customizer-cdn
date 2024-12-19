@@ -55,5 +55,29 @@
     },
     "is_pro": false,
     "is_external": true
+  },
+  "wp-loyalty-judge-me": {
+    "name": "WPLoyalty - Judge.Me",
+    "description": "The add-on integrates WPLoyalty with the Judge.me and allows you to reward customers with points for writing reviews in Judge.me",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-judge-me/wp-loyalty-judge-me.png",
+    "download_url": "",
+    "plugin_file": "wp-loyalty-judge-me/wp-loyalty-judge-me.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
+      "judgeme-product-reviews-woocommerce": {
+        "name": "Judge.me Product Reviews for WooCommerce",
+        "url": "https://judge.me/",
+        "file": "judgeme-product-reviews-woocommerce/judgeme.php"
+      }
+    },
+    "is_pro": false,
+    "is_external": true
   }
 }
