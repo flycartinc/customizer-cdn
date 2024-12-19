@@ -1,4 +1,23 @@
 {
+  "wp-loyalty-guest-referral": {
+    "name": "WPLoyalty - Guest Referral",
+    "description": "This add-on allows the \"referred persons (friends)\" to claim their referral reward instantly and use it for their very first purchase itself.",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-guest-referral/wp-loyalty-guest-referral.png",
+    "download_url": "",
+    "plugin_file": "wp-loyalty-guest-referral/wp-loyalty-guest-referral.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
+    },
+    "is_pro": true,
+    "is_external": true
+  },
   "wp-loyalty-auto-currency": {
     "name": "WPLoyalty - Multi Currency",
     "description": "Adds multi-currency support for WPLoyalty with automatic currency conversion compatibility with 4 popular multicurrency plugins for WooCommerce",
