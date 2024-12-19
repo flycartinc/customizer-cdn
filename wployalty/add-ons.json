@@ -17,5 +17,24 @@
     },
     "is_pro": false,
     "is_external": true
+  },
+  "wp-loyalty-translate": {
+    "name": "WPLoyalty - Multi-Lingual Compatibility - Dynamic Strings",
+    "description": "This add-on used to translate dynamic string for WPLoyalty and related add-on",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-translate/wp-loyalty-translate.png",
+    "download_url": "",
+    "plugin_file": "wp-loyalty-translate/wp-loyalty-translate.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
+    },
+    "is_pro": false,
+    "is_external": true
   }
 }
