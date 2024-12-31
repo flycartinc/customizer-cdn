@@ -244,5 +244,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woo-wallet": {
+    "name": "TeraWallet for WooCommerce",
+    "description": "Adds support for customizing emails sent by TeraWallet for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woo-wallet/edpw-woo-wallet.png",
+    "download_url": "",
+    "plugin_file": "edpw-woo-wallet/edpw-woo-wallet.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "woo-wallet": {
+        "name": "Wallet for WooCommerce",
+        "url": "https://standalonetech.com/",
+        "file": "woo-wallet/woo-wallet.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
