@@ -3,7 +3,7 @@
     "name": "WPLoyalty - Guest Referral",
     "description": "This add-on allows the \"referred persons (friends)\" to claim their referral reward instantly and use it for their very first purchase itself.",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-guest-referral/wp-loyalty-guest-referral.png",
-    "download_url": "https://wployalty.net/add-ons/guest-referral/",
+    "download_url": "https://wployalty.net/add-ons/guest-referral/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-guest-referral/wp-loyalty-guest-referral.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -22,7 +22,7 @@
     "name": "WPLoyalty - Multi Currency",
     "description": "Adds multi-currency support for WPLoyalty with automatic currency conversion compatibility with 4 popular multicurrency plugins for WooCommerce",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-auto-currency/wp-loyalty-auto-currency.png",
-    "download_url": "https://wployalty.net/add-ons/automatic-multi-currency/",
+    "download_url": "https://wployalty.net/add-ons/automatic-multi-currency/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-auto-currency/wp-loyalty-auto-currency.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -41,7 +41,7 @@
     "name": "WPLoyalty - Multi-Lingual Compatibility - Dynamic Strings",
     "description": "This add-on used to translate dynamic string for WPLoyalty and related add-on",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-translate/wp-loyalty-translate.png",
-    "download_url": "https://wployalty.net/add-ons/multi-lingual-compatibility/",
+    "download_url": "https://wployalty.net/add-ons/multi-lingual-compatibility/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-translate/wp-loyalty-translate.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -56,12 +56,12 @@
     "is_pro": false,
     "is_external": true
   },
-  "wp-loyalty-woo-discount-rule": {
-    "name": "WPLoyalty - Discount Rule Integration",
-    "description": "Adds Woo Discount Rule conditional support for WPLoyalty",
-    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.png",
-    "download_url": "https://wployalty.net/add-ons/discount-rule-integration/",
-    "plugin_file": "wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.php",
+  "wp-loyalty-migration": {
+    "name": "WPLoyalty - Migration",
+    "description": "The WPLoyalty Migration Add-On allows you to transfer your customers and their earned points from other loyalty plugins like Loyalty Points Legacy, WPswings, or WooCommerce Points and Rewards into WPLoyalty.",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-migration/wp-loyalty-migration.png",
+    "download_url": "https://wployalty.net/add-ons/migration/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
+    "plugin_file": "wp-loyalty-migration/wp-loyalty-migration.php",
     "document_url": "",
     "page_url": "{addon_page}",
     "requires": {
@@ -79,7 +79,7 @@
     "name": "WPLoyalty - Judge.Me",
     "description": "The add-on integrates WPLoyalty with the Judge.me and allows you to reward customers with points for writing reviews in Judge.me",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-judge-me/wp-loyalty-judge-me.png",
-    "download_url": "https://wployalty.net/add-ons/judge-me-product-reviews/",
+    "download_url": "https://wployalty.net/add-ons/judge-me-product-reviews/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-judge-me/wp-loyalty-judge-me.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -95,6 +95,25 @@
         "url": "https://judge.me/",
         "file": "judgeme-product-reviews-woocommerce/judgeme.php"
       }
+    },
+    "is_pro": false,
+    "is_external": true
+  },
+  "wp-loyalty-woo-discount-rule": {
+    "name": "WPLoyalty - Discount Rule Integration",
+    "description": "Adds Woo Discount Rule conditional support for WPLoyalty",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.png",
+    "download_url": "https://wployalty.net/add-ons/discount-rule-integration/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
+    "plugin_file": "wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
     },
     "is_pro": false,
     "is_external": true
