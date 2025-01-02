@@ -1,31 +1,24 @@
 {
   "discount_rules":{
-    "name": "Discount Rules for WooCommerce - PRO",
+    "name": "Discount Rules PRO for WooCommerce",
     "author": "Flycart",
-    "description": "Create a variety of discount offers in WooCommerce to drive conversions. Easily set up discounts based on product categories, user-roles, and more for a tailored shopping experience.",
+    "description": "#1 WooCommerce Discount plugin with over 1,00,000+ active installs and 900+ five-star reviews. Create any type of discount promotions including bulk discounts, buy one get one free offers, discounts based on products, category, tags, attributes, user roles, order total, purchase history, customer attributes and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/discount-rules.png",
     "plugin_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
   "spark_editor": {
     "name": "Spark Email Editor",
     "author": "emaileditorplus",
-    "description": "Create awesome transactional emails with a drag and drop email builder.",
+    "description": "Effortlessly customize WooCommerce and WordPress emails with our visual drag-and-drop editor. Quickly adapt one of our ready-made templates to match your branding. Compatible with popular WooCommerce plugins like WooCommerce Subscriptions, WooCommerce Bookings, WPLoyalty, and more. Fully multilingual-ready",
     "icon_url": "https://static.flycart.net/recommendation/icons/spark-email-editor.png",
     "plugin_url": "https://sparkeditor.com/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
   "upsellwp": {
-    "name": "UpsellWP - WooCommerce Upsell, Cross-sell and Order Bumps",
+    "name": "UpsellWP - Upsells, Cross-sells, Order bumps",
     "author": "UpsellWP",
-    "description": "Increase the average order value with smart offers at checkout. Add one-click upsells and order bumps to your WooCommerce checkout page and motivate customers to buy more.",
+    "description": "Increase average order value with the All-in-one upsell plugin. Effortlessly integrate checkout upsells, order bumps, frequently bought together offers, one-click upsells, cart upsells, thank you page upsells, and added-to-cart popups. Tailor product recommendations to customer purchase behaviors and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/upsellwp.png",
     "plugin_url": "https://upsellwp.com/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
-  },
-  "side_cart": {
-    "name": "Side Cart by UpsellWP",
-    "author": "UpsellWP",
-    "description": "Allow customers to easily manage their purchases and discover upsell opportunities with a visible and accessible sliding widget on your WooCommerce store.",
-    "icon_url": "https://static.flycart.net/recommendation/icons/side-cart.png",
-    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
   "wpbundle": {
     "name": "WPBundle PRO",
@@ -37,15 +30,22 @@
   "relay": {
     "name": "Relay - Affiliate marketing",
     "author": "WPRelay",
-    "description": "Automate and manage your WooCommerce affiliate program effortlessly. Create powerful, customizable affiliate campaigns, streamline sign-ups, track commissions, and ensure smooth payouts—all from one dashboard.",
+    "description": "Supercharge your WooCommerce affiliate marketing – manage affiliates, their referrals, track sales, and automate payouts with Relay effortlessly! Create unlimited affiliate & customer referral programs to drive word-of-mouth sales.",
     "icon_url": "https://static.flycart.net/recommendation/icons/wprelay.png",
     "plugin_url": "https://wprelay.com/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
   "retainful": {
-    "name": "Retainful - Abandoned Cart Recovery",
+    "name": "Retainful - Email Marketing & Cart Recovery",
     "author": "Retainful",
-    "description": "Do life-cycle WooCommerce email marketing with Retainful - grow email list, nurture and retain customers through automation & email campaigns.",
+    "description": "The simplest, easiest-to-use email marketing, newsletter, cart recovery, signup forms and automation plugin for WooCommerce. Recover abandoned carts, send newsletters & email campaigns, automate order follow-up emails & grow email lists with signup forms, add-to-cart popups, exit popups and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/retainful.png",
     "plugin_url": "https://www.retainful.com/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
+  },
+  "side_cart": {
+    "name": "Side Cart for WooCommerce",
+    "author": "UpsellWP",
+    "description": "The ultimate WooCommerce side cart widget for faster checkout. Boost conversions by streamlining the checkout process and increase sales with targeted upsell and cross-sell offers. Get it free.",
+    "icon_url": "https://static.flycart.net/recommendation/icons/side-cart.png",
+    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   }
 }
