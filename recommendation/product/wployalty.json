@@ -21,9 +21,9 @@
     "plugin_url": "https://upsellwp.com/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
   "wpbundle": {
-    "name": "WPBundle PRO",
+    "name": "WPBundle - Product Bundles",
     "author": "WPBundle",
-    "description": "Boost your store revenue by presenting product bundles to your customers.",
+    "description": "Boost your order value by creating and selling product bundles. The plugin helps you create 4 types of bundles - fixed, cross-sell, dynamic bundles based on conditions, build-your-box (mix and match) bundles - to drive more revenue per purchase.",
     "icon_url": "https://static.flycart.net/recommendation/icons/wpbundle.png",
     "plugin_url": "https://wpbundle.net/?utm_campaign=recommended&utm_source=wployalty&utm_medium={site-name}"
   },
