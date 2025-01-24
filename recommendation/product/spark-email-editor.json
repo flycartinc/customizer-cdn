@@ -4,48 +4,62 @@
     "author": "Flycart",
     "description": "#1 WooCommerce Discount plugin with over 1,00,000+ active installs and 900+ five-star reviews. Create any type of discount promotions including bulk discounts, buy one get one free offers, discounts based on products, category, tags, attributes, user roles, order total, purchase history, customer attributes and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/discount-rules.png",
-    "plugin_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/discount_rule.png",
+    "primary_color": "#D18F0D"
   },
   "wployalty": {
     "name": "WPLoyalty - Loyalty Points, Rewards & Referrals",
     "author": "WPLoyalty",
     "description": "Build customer loyalty and boost repeat sales with a loyalty rewards and referral program. Reward your customers with points for purchases, sign-ups, reviews, referrals, social shares, birthdays, and more, fostering lasting engagement and loyalty.",
     "icon_url": "https://static.flycart.net/recommendation/icons/wployalty.png",
-    "plugin_url": "https://wployalty.net/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://wployalty.net/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/wployalty.png",
+    "primary_color": "#5C54EC"
   },
   "upsellwp": {
     "name": "UpsellWP - Upsells, Cross-sells, Order bumps",
     "author": "UpsellWP",
     "description": "Increase average order value with the All-in-one upsell plugin. Effortlessly integrate checkout upsells, order bumps, frequently bought together offers, one-click upsells, cart upsells, thank you page upsells, and added-to-cart popups. Tailor product recommendations to customer purchase behaviors and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/upsellwp.png",
-    "plugin_url": "https://upsellwp.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://upsellwp.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/upsellwp.png",
+    "primary_color": "#012359"
   },
   "wpbundle": {
     "name": "WPBundle - Product Bundles",
     "author": "WPBundle",
     "description": "Boost your order value by creating and selling product bundles. The plugin helps you create 4 types of bundles - fixed, cross-sell, dynamic bundles based on conditions, build-your-box (mix and match) bundles - to drive more revenue per purchase.",
     "icon_url": "https://static.flycart.net/recommendation/icons/wpbundle.png",
-    "plugin_url": "https://wpbundle.net/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://wpbundle.net/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/wpbundle.png",
+    "primary_color": "#10AC5B"
   },
   "relay": {
     "name": "Relay - Affiliate Marketing",
     "author": "WPRelay",
     "description": "Supercharge your WooCommerce affiliate marketing – manage affiliates, their referrals, track sales, and automate payouts with Relay effortlessly! Create unlimited affiliate & customer referral programs to drive word-of-mouth sales.",
     "icon_url": "https://static.flycart.net/recommendation/icons/wprelay.png",
-    "plugin_url": "https://wprelay.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://wprelay.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/wprelay.png",
+    "primary_color": "#257AE9"
   },
   "retainful": {
     "name": "Retainful - Email Marketing & Cart Recovery",
     "author": "Retainful",
     "description": "The simplest, easiest-to-use email marketing, newsletter, cart recovery, signup forms and automation plugin for WooCommerce. Recover abandoned carts, send newsletters & email campaigns, automate order follow-up emails & grow email lists with signup forms, add-to-cart popups, exit popups and more.",
     "icon_url": "https://static.flycart.net/recommendation/icons/retainful.png",
-    "plugin_url": "https://www.retainful.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://www.retainful.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/retainful.png",
+    "primary_color": "#F27559"
   },
   "side_cart": {
     "name": "Side Cart for WooCommerce",
     "author": "UpsellWP",
     "description": "The ultimate WooCommerce side cart widget for faster checkout. Boost conversions by streamlining the checkout process and increase sales with targeted upsell and cross-sell offers. Get it free.",
     "icon_url": "https://static.flycart.net/recommendation/icons/side-cart.png",
-    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}"
+    "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/discount_rule/recommendation/image/side-cart.png",
+    "primary_color": "#0A5CFF"
   }
 }
