@@ -99,7 +99,7 @@
     "is_pro": false,
     "is_external": true
   },
-  "wp-loyalty-woo-discount-rules": {
+  "wp-loyalty-woo-discount-rule": {
     "name": "WPLoyalty - Discount Rule Integration",
     "description": "Adds Woo Discount Rule conditional support for WPLoyalty",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-woo-discount-rules/wp-loyalty-woo-discount-rules.png",
