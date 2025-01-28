@@ -99,12 +99,12 @@
     "is_pro": false,
     "is_external": true
   },
-  "wp-loyalty-woo-discount-rule": {
+  "wp-loyalty-woo-discount-rules": {
     "name": "WPLoyalty - Discount Rule Integration",
     "description": "Adds Woo Discount Rule conditional support for WPLoyalty",
-    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.png",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-woo-discount-rules/wp-loyalty-woo-discount-rules.png",
     "download_url": "https://wployalty.net/add-ons/discount-rule-integration/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
-    "plugin_file": "wp-loyalty-woo-discount-rule/wp-loyalty-woo-discount-rule.php",
+    "plugin_file": "wp-loyalty-woo-discount-rules/wp-loyalty-woo-discount-rules.php",
     "document_url": "",
     "page_url": "{addon_page}",
     "requires": {
