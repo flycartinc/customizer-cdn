@@ -92,6 +92,30 @@
     "is_pro": true,
     "is_external": true
   },
+  "edpw-woocommerce-memberships": {
+    "name": "WooCommerce Memberships",
+    "description": "Adds support for customizing emails sent by WooCommerce Memberships plugin.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-memberships/edpw-woocommerce-memberships.png",
+    "download_url": "https://sparkeditor.com/add-ons/woocommerce-memberships/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-woocommerce-memberships/edpw-woocommerce-memberships.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "subscription": {
+        "name": "WooCommerce Memberships",
+        "url": "https://woocommerce.com/products/woocommerce-subscriptions",
+        "file": "woocommerce-memberships/woocommerce-memberships.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
+  },
   "edpw-woocommerce-appointment-compatibility": {
     "name": "WooCommerce Appointments",
     "description": "Adds support for customizing emails sent by WooCommerce Appointments.",
