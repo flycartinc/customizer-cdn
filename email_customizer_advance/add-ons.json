@@ -109,7 +109,7 @@
     "dependencies": {
       "subscription": {
         "name": "WooCommerce Memberships",
-        "url": "https://woocommerce.com/products/woocommerce-subscriptions",
+        "url": "https://www.skyverge.com/memberships/",
         "file": "woocommerce-memberships/woocommerce-memberships.php"
       }
     },
