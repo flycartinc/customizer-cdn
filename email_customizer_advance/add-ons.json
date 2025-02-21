@@ -310,5 +310,32 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-dokan-multivendor-marketplace": {
+    "name": "Dokan Multi-Vendor",
+    "description": "Adds support for customizing emails sent by Dokan multi-vendor.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-dokan-multivendor-marketplace/edpw-dokan-multivendor-marketplace.png",
+    "download_url": "https://sparkeditor.com/add-ons/dokan-multi-vendor/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-dokan-multivendor-marketplace/edpw-dokan-multivendor-marketplace.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "dokan-pro": {
+        "name": "Dokan Multi-Vendor",
+        "url": "https://dokan.co/wordpress/",
+        "file": {
+          "dokan-pro": "dokan-pro/dokan-pro.php",
+          "dokan-lite": "dokan-lite/dokan.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
