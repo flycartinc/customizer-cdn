@@ -117,5 +117,24 @@
     },
     "is_pro": false,
     "is_external": true
+  },
+  "wlrp-perfect-brand": {
+    "name": "WPLoyalty - Brand Condition",
+    "description": "Compatibility to earn via configured brands for Perfect Brands for Woocommerce & Woocommerce Brands.",
+    "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wlrp-perfect-brand/wlrp-perfect-brand.png",
+    "download_url": "https://wployalty.net/add-ons/wployalty-brand-condition/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
+    "plugin_file": "wlrp-perfect-brand/wlrp-perfect-brand.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "wlr_core": "",
+      "wlr_pro": ""
+    },
+    "dependencies": {
+    },
+    "is_pro": false,
+    "is_external": true
   }
 }
