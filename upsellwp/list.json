@@ -39,6 +39,26 @@
     },
     "is_pro": true
   },
+  "email_upsells": {
+    "name": "Email Upsells",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Display related upsell products on the email after the customer completes their purchase.",
+    "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-email-upsells/upsellwp-email-upsells.png",
+    "plugin_url": "https://upsellwp.com/add-ons/email-upsells/",
+    "download_url": "",
+    "plugin_file": "upsellwp-email-upsells/upsellwp-email-upsells.php",
+    "page_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=campaigns",
+    "settings_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=settings",
+    "wordpress_url": "",
+    "requires": {
+      "php": "7.0",
+      "wordpress": "5.3",
+      "woocommerce": "4.4",
+      "upsellwp_pro": "2.1.7"
+    },
+    "is_pro": true
+  },
   "translation": {
     "name": "Translation",
     "author": "UpsellWP",
