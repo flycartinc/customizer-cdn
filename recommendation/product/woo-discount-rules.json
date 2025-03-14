@@ -8,15 +8,6 @@
     "banner_image": "https://static.flycart.net/recommendation/image/wployalty.png",
     "primary_color": "#5C54EC"
   },
-  "spark_editor": {
-    "name": "Spark Email Editor",
-    "author": "emaileditorplus",
-    "description": "Effortlessly customize WooCommerce and WordPress emails with our visual drag-and-drop editor. Quickly adapt one of our ready-made templates to match your branding. Compatible with popular WooCommerce plugins like WooCommerce Subscriptions, WooCommerce Bookings, WPLoyalty, and more. Fully multilingual-ready",
-    "icon_url": "https://static.flycart.net/recommendation/icons/spark-email-editor.png",
-    "plugin_url": "https://sparkeditor.com/?utm_campaign=recommended&utm_source=woo-discount-rules&utm_medium={site-name}",
-    "banner_image": "https://static.flycart.net/recommendation/image/spark-email-editor.png",
-    "primary_color": "#165134"
-  },
   "upsellwp": {
     "name": "UpsellWP - Upsells, Cross-sells, Order bumps",
     "author": "UpsellWP",
@@ -25,6 +16,15 @@
     "plugin_url": "https://upsellwp.com/?utm_campaign=recommended&utm_source=woo-discount-rules&utm_medium={site-name}",
     "banner_image": "https://static.flycart.net/recommendation/image/upsellwp.png",
     "primary_color": "#012359"
+  },
+  "spark_editor": {
+    "name": "Spark Email Editor",
+    "author": "emaileditorplus",
+    "description": "Effortlessly customize WooCommerce and WordPress emails with our visual drag-and-drop editor. Quickly adapt one of our ready-made templates to match your branding. Compatible with popular WooCommerce plugins like WooCommerce Subscriptions, WooCommerce Bookings, WPLoyalty, and more. Fully multilingual-ready",
+    "icon_url": "https://static.flycart.net/recommendation/icons/spark-email-editor.png",
+    "plugin_url": "https://sparkeditor.com/?utm_campaign=recommended&utm_source=woo-discount-rules&utm_medium={site-name}",
+    "banner_image": "https://static.flycart.net/recommendation/image/spark-email-editor.png",
+    "primary_color": "#165134"
   },
   "wpbundle": {
     "name": "WPBundle - Product Bundles",
