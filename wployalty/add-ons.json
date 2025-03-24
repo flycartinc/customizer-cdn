@@ -141,7 +141,7 @@
     "name": "WPLoyalty - Level Options",
     "description": "The add-on helps you customize levels or tiers based on specific options.",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wllp-point-based-level/wllp-point-based-level.png",
-    "download_url": "https://wployalty.net/add-ons/wployalty-level-options/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
+    "download_url": "https://wployalty.net/add-ons/level-options/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wllp-point-based-level/wllp-point-based-level.php",
     "document_url": "",
     "page_url": "{addon_page}",
