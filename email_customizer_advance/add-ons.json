@@ -337,5 +337,32 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-woocommerce-gift-cards-premium": {
+    "name": "YITH WooCommerce Gift Cards",
+    "description": "Adds support for customizing emails sent by YITH gift cards.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-gift-cards-premium/edpw-yith-woocommerce-gift-cards-premium.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-comm-gift-card/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-yith-woocommerce-gift-cards-premium/edpw-yith-woocommerce-gift-cards-premium.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-gift-card-pro": {
+        "name": "YITH WooCommerce Gift Cards",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-gift-cards/",
+        "file": {
+          "dokan-pro": "yith-woocommerce-gift-cards-premium/init.php",
+          "dokan-lite": "yith-woocommerce-gift-cards/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
