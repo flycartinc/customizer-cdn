@@ -364,5 +364,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-booking-and-appointment-for-woocommerce": {
+    "name": "Yith Booking And Appointment For Woocommerce",
+    "description": "Adds support for customizing emails sent by Yith Booking And Appointment For Woocommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-booking-and-appointment-for-woocommerce/edpw-yith-booking-and-appointment-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-booking-and-appointment-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-yith-booking-and-appointment-for-woocommerce/edpw-yith-booking-and-appointment-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-booking-and-appointment-for-woocommerce": {
+        "name": "Yith Booking And Appointment For Woocommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-booking/",
+        "file": "yith-woocommerce-booking-premium/init.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
