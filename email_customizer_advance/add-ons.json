@@ -388,5 +388,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-advanced-refund-system-for-woocommerce": {
+    "name": "YITH Advanced Refund System for WooCommerce",
+    "description": "Adds support for customizing emails sent by YITH Advanced Refund System for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-advanced-refund-system-for-woocommerce/edpw-yith-advanced-refund-system-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-advanced-refund-system-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-yith-advanced-refund-system-for-woocommerce/edpw-yith-advanced-refund-system-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-advanced-refund-system-for-woocommerce": {
+        "name": "YITH Advanced Refund System for WooCommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-advanced-refund-system-for-woocommerce/",
+        "file": "yith-advanced-refund-system-for-woocommerce-premium/init.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
