@@ -388,5 +388,29 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-colissimo-shipping-methods-for-woocommerce": {
+    "name": "Colissimo shipping methods for WooCommerce",
+    "description": "Adds support for customizing emails sent by Colissimo shipping methods for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-colissimo-shipping-methods-for-woocommerce/edpw-colissimo-shipping-methods-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-booking-and-appointment-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-colissimo-shipping-methods-for-woocommerce/edpw-colissimo-shipping-methods-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-booking-and-appointment-for-woocommerce": {
+        "name": "Colissimo shipping methods for WooCommerce",
+        "url": "https://wordpress.org/plugins/colissimo-shipping-methods-for-woocommerce/",
+        "file": "colissimo-shipping-methods-for-woocommerce/index.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
