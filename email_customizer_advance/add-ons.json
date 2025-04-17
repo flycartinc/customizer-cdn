@@ -436,5 +436,56 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-woocommerce-wishlist": {
+    "name": "Yith Wishlist for Woocommerce",
+    "description": "Adds support for customizing emails sent by Yith Wishlist for Woocommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-wishlist/edpw-yith-woocommerce-wishlist.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-wishlist-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-yith-woocommerce-wishlist/edpw-yith-woocommerce-wishlist.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "yith-wishlist-for-woocommerce": {
+        "name": "YITH WooCommerce Wishlist Premium",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/",
+        "file": "yith-woocommerce-wishlist-premium/init.php"
+      }
+    },
+    "is_pro": true,
+    "is_external": true
+  },
+  "edpw-wcfm-marketplace": {
+    "name": "WCFM Marketplace",
+    "description": "Adds support for customizing emails sent by WCFM Marketplace.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-wcfm-marketplace/edpw-wcfm-marketplace.png",
+    "download_url": "https://sparkeditor.com/add-ons/wcfm-marketplace/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-wcfm-marketplace/edpw-wcfm-marketplace.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "wc-multivendor-marketplace": {
+        "name": "WCFM - WooCommerce Multivendor Marketplace",
+        "url": "https://wclovers.com/",
+        "file": {
+          "wc-frontend-manager": "wc-frontend-manager/wc_frontend_manager.php",
+          "wc-multivendor-marketplace": "wc-multivendor-marketplace/wc-multivendor-marketplace.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
