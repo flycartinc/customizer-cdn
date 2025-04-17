@@ -481,7 +481,7 @@
         "url": "https://wclovers.com/",
         "file": {
           "wc-frontend-manager": "wc-frontend-manager/wc_frontend_manager.php",
-          "wc-multivendor-marketplace": "wc-multivendor-marketplace-8d4ba3b0573b955a91a03d16119d6657aef70a91/wc-multivendor-marketplace.php"
+          "wc-multivendor-marketplace": "wc-multivendor-marketplace/wc-multivendor-marketplace.php"
         }
       }
     },
