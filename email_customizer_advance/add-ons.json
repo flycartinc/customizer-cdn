@@ -169,7 +169,7 @@
     "description": "Adds support for customizing emails sent by WooCommerce Custom Order Status Manager.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-custom-order-status-manager-compatibility/edpw-custom-order-status-manager-compatibility.png",
     "download_url": "https://sparkeditor.com/add-ons/woocommerce-custom-order-status-manager/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
-    "plugin_file": "edpw-customer-order-status-manager/edpw-customer-order-status-manager.php",
+    "plugin_file": "edpw-custom-order-status-manager/edpw-custom-order-status-manager.php",
     "document_url": "",
     "page_url": "{addon_page}",
     "requires": {
