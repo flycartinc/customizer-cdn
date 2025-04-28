@@ -56,7 +56,7 @@
     "description": "Sends form data and contact information to Retainful automatically from Elementor forms",
     "icon_url": "https://static.flycart.net/retainful/image/elementor.png",
     "download_url": "",
-    "plugin_file":"rnoc-elementor-forms/rnoc-elementor-forms.php",
+    "plugin_file":"rnoc-elementor-form/rnoc-elementor-form.php",
     "document_url": "",
     "label": "Retainful for Elementor Add-On",
     "author": "Retainful",
