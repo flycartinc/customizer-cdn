@@ -1,0 +1,67 @@
+{
+  "rnoc-contact-form-7": {
+    "name": "Retainful for Contact Form 7 Add-On",
+    "description": "Sends form data and contact information to Retainful automatically from Contact Form 7",
+    "icon_url": "https://static.flycart.net/retainful/image/contact-form-7.svg",
+    "download_url": "",
+    "plugin_file": "rnoc-contact-form-7/rnoc-contact-form-7.php",
+    "document_url": "",
+    "label": "Retainful for Contact Form 7 Add-On",
+    "author": "Retainful",
+    "show_activate": false,
+    "is_pro": true,
+    "is_external": false
+  },
+  "rnoc-formidable": {
+    "name": "Retainful for Formidable Form Add-On",
+    "description": "Sends form data and contact information to Retainful automatically from Formidable Form",
+    "icon_url": "https://static.flycart.net/retainful/image/formidable-form.svg",
+    "download_url": "",
+    "plugin_file": "rnoc-formidable/rnoc-formidable.php",
+    "document_url": "",
+    "label": "Retainful for Formidable Form Add-On",
+    "author": "Retainful",
+    "show_activate": false,
+    "is_pro": false,
+    "is_external": false
+  },
+  "rnoc-ninja-forms": {
+    "name": "Retainful for ninja forms Add-On",
+    "description": "Sends form data and contact information to Retainful automatically from ninja forms",
+    "icon_url": "https://static.flycart.net/retainful/image/ninja-forms.png",
+    "download_url": "",
+    "plugin_file": "rnoc-ninja-forms/rnoc-ninja-forms.php",
+    "label": "Retainful for ninja forms Add-On",
+    "author": "Retainful",
+    "document_url": "",
+    "show_activate": false,
+    "is_pro": false,
+    "is_external": false
+  },
+  "rnoc-gravityforms": {
+    "name": "Retainful for Gravity Froms Add-On",
+    "description": "Sends form data and contact information to Retainful automatically from Gravity forms",
+    "icon_url": "https://static.flycart.net/retainful/image/gravity-forms.svg",
+    "download_url": "",
+    "plugin_file":"rnoc-gravityforms/rnoc-gravityforms.php",
+    "document_url": "",
+    "label": "Retainful for Gravity Froms Add-On",
+    "author": "Retainful",
+    "show_activate": false,
+    "is_pro": false,
+    "is_external": false
+  },
+  "rnoc-elementor-form": {
+    "name": "Retainful for Elementor Add-On",
+    "description": "Sends form data and contact information to Retainful automatically from Elementor forms",
+    "icon_url": "https://static.flycart.net/retainful/image/elementor.png",
+    "download_url": "",
+    "plugin_file":"rnoc-elementor-forms/rnoc-elementor-forms.php",
+    "document_url": "",
+    "label": "Retainful for Elementor Add-On",
+    "author": "Retainful",
+    "show_activate": false,
+    "is_pro": false,
+    "is_external": false
+  }
+}
