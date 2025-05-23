@@ -487,5 +487,32 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-order-approval-for-woocommerce": {
+    "name": "Order Approval for Woocommerce",
+    "description": "Adds support for customizing emails sent by order approval for woocommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-order-approval-for-woocommerce/edpw-order-approval-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/order-approval-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-order-approval-for-woocommerce/edpw-order-approval-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-order-approval-for-woocommerce": {
+        "name": "Order Approval for Woocommerce",
+        "url": "https://sevengits.com/plugin/order-approval-woocommerce-pro/",
+        "file": {
+          "order-approval-woocommerce-pro": "order-approval-woocommerce-pro/order-approval-woocommerce-pro.php",
+          "order-approval-woocommerce": "order-approval-woocommerce/order-approval-woocommerce.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
