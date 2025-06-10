@@ -519,7 +519,7 @@
     "name": "Relay Affiliate Marketing",
     "description": "Adds support for customizing emails sent by relay affiliate marketing.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-wprelay/edpw-wprelay.png",
-    "download_url": "https://sparkeditor.com/add-ons/order-approval-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "download_url": "https://sparkeditor.com/add-ons/relay-affiliate-marketing/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
     "plugin_file": "edpw-wprelay/edpw-wprelay.php",
     "document_url": "",
     "page_url": "{addon_page}",
