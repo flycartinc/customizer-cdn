@@ -157,10 +157,10 @@
     "is_external": true
   },
   "wp-loyalty-optin": {
-    "name": "WPLoyalty - Optin",
+    "name": "WPLoyalty - Opt-in",
     "description": "The WPLoyalty Opt-in Add-on allows you to give customers the choice to Accept/Decline your loyalty program through a simple checkbox.",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-optin/wp-loyalty-optin.png",
-    "download_url": "",
+    "download_url": "https://wployalty.net/add-ons/wployalty-opt-in/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-optin/wp-loyalty-optin.php",
     "document_url": "",
     "page_url": "{addon_page}",
