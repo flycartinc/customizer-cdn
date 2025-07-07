@@ -22,7 +22,7 @@
   "buy_more_save_more": {
     "name": "Buy More Save More",
     "author": "UpsellWP",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Encourage your customers to buy more and save big with bulk purchase discounts.",
     "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-buy-more-save-more/upsellwp-buy-more-save-more.png",
     "plugin_url": "https://upsellwp.com/add-ons/buy-more-save-more/",
@@ -33,8 +33,8 @@
     "wordpress_url": "",
     "requires": {
       "php": "7.0",
-      "wordpress": "5.3",
-      "woocommerce": "4.4",
+      "wordpress": "6.0",
+      "woocommerce": "6.0",
       "upsellwp_pro": "2.1.5"
     },
     "is_pro": true
