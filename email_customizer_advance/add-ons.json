@@ -541,5 +541,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-woocommerce-subscription": {
+    "name": "YITH WooCommerce Subscription Premium",
+    "description": "Adds support for customizing emails sent by YITH WooCommerce Subscription Premium.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-subscription/edpw-yith-woocommerce-subscription.png",
+    "download_url": "https://sparkeditor.com/add-ons/edpw-yith-woocommerce-subscription/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
+    "plugin_file": "edpw-yith-woocommerce-subscription/edpw-yith-woocommerce-subscription.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-woocommerce-subscription": {
+        "name": "YITH WooCommerce Subscription Premium",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-subscription/",
+        "file": {
+          "yith-woocommerce-subscription-premium": "yith-woocommerce-subscription-premium/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
