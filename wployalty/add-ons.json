@@ -179,7 +179,7 @@
     "name": "WPLoyalty - Yuko Review",
     "description": "The add-on integrates WPLoyalty with the Yuko and allows you to reward customers with points for writing reviews in Yuko",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-yuko-review/wp-loyalty-yuko-review.png",
-    "download_url": "https://wployalty.net/add-ons/wp-loyalty-yuko-review/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
+    "download_url": "https://wployalty.net/add-ons/yuko-reviews/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-yuko-review/wp-loyalty-yuko-review.php",
     "document_url": "",
     "page_url": "{addon_page}",
