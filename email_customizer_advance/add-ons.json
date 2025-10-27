@@ -419,7 +419,7 @@
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-colissimo-shipping-methods-for-woocommerce/edpw-colissimo-shipping-methods-for-woocommerce.png",
     "download_url": "https://sparkeditor.com/add-ons/colissimo-shipping-methods-for-woocommerce/?utm_campaign=add-on-page&utm_medium=client-site&utm_source=spark-editor",
     "plugin_file": "edpw-colissimo-shipping-methods-for-woocommerce/edpw-colissimo-shipping-methods-for-woocommerce.php",
-    "document_url": "https://sparkeditor.com/add-ons/pdf-product-vouchers-for-woocommerce/",
+    "document_url": "",
     "page_url": "{addon_page}",
     "requires": {
       "wp": "",
@@ -572,7 +572,7 @@
     "name": "WooCommerce PDF Product Vouchers",
     "description": "Adds support for customizing emails sent by WooCommerce PDF Product Vouchers.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-pdf-product-vouchers/edpw-woocommerce-pdf-product-vouchers.png",
-    "download_url": "",
+    "download_url": "https://sparkeditor.com/add-ons/pdf-product-vouchers-for-woocommerce/",
     "plugin_file": "edpw-woocommerce-pdf-product-vouchers/edpw-woocommerce-pdf-product-vouchers.php",
     "document_url": "",
     "page_url": "{addon_page}",
