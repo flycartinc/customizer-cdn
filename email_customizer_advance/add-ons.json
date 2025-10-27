@@ -567,5 +567,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woocommerce-pdf-product-vouchers": {
+    "name": "WooCommerce PDF Product Vouchers",
+    "description": "Adds support for customizing emails sent by WooCommerce PDF Product Vouchers.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-pdf-product-vouchers/edpw-woocommerce-pdf-product-vouchers.png",
+    "download_url": "",
+    "plugin_file": "edpw-woocommerce-pdf-product-vouchers/edpw-woocommerce-pdf-product-vouchers.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-woocommerce-pdf-product-vouchers": {
+        "name": "WooCommerce PDF Product Vouchers",
+        "url": "https://woocommerce.com/de/products/pdf-product-vouchers/",
+        "file": {
+          "woocommerce-pdf-product-vouchers": "woocommerce-pdf-product-vouchers/woocommerce-pdf-product-vouchers.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
