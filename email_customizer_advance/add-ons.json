@@ -593,5 +593,57 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-easy-login-register-popup-for-woocommerce": {
+    "name": "YITH Easy Login & Register Popup for WooCommerce",
+    "description": "Adds support for customizing emails sent by YITH Easy Login & Register Popup for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-easy-login-register-popup-for-woocommerce/edpw-yith-easy-login-register-popup-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-login-register-popup-for-woocommerce/",
+    "plugin_file": "edpw-yith-easy-login-register-popup-for-woocommerce/edpw-yith-easy-login-register-popup-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-easy-login-register-popup-for-woocommerce": {
+        "name": "YITH Easy Login & Register Popup for WooCommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-easy-login-register-popup-for-woocommerce/",
+        "file": {
+          "yith-easy-login-register-popup-for-woocommerce": "yith-easy-login-register-popup-for-woocommerce/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
+  },
+  "edpw-yith-woocommerce-delivery-date": {
+    "name": "YITH WooCommerce Delivery Date Premium",
+    "description": "Adds support for customizing emails sent by YITH WooCommerce Delivery Date Premium.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-delivery-date/edpw-yith-woocommerce-delivery-date.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-delivery-date-premium-for-woocommerce/",
+    "plugin_file": "edpw-yith-woocommerce-delivery-date/edpw-yith-woocommerce-delivery-date.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-woocommerce-delivery-date": {
+        "name": "YITH WooCommerce Delivery Date Premium",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-delivery-date/",
+        "file": {
+          "yith-woocommerce-delivery-date-premium": "yith-woocommerce-delivery-date-premium/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
