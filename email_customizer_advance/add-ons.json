@@ -645,5 +645,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-b2b-king": {
+    "name": "B2BKing Wholesale for Woocommerce",
+    "description": "Adds support for customizing emails sent by B2BKing Wholesale for Woocommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-b2b-king/edpw-b2b-king.png",
+    "download_url": "https://sparkeditor.com/add-ons/b2bking/",
+    "plugin_file": "edpw-b2b-king/edpw-b2b-king.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-b2b-king": {
+        "name": "B2BKing Wholesale for Woocommerce",
+        "url": "https://kingsplugins.com/woocommerce-wholesale/b2bking/",
+        "file": {
+          "b2bking-wholesale-for-woocommerce": "b2bking-wholesale-for-woocommerce/b2bking.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
