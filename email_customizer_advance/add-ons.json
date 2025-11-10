@@ -671,5 +671,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-woocommerce-membership": {
+    "name": "YITH WooCommerce Membership",
+    "description": "Adds support for customizing emails sent by YITH WooCommerce Membership.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-woocommerce-membership/edpw-yith-woocommerce-membership.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-woocommerce-membership/",
+    "plugin_file": "edpw-yith-woocommerce-membership/edpw-yith-woocommerce-membership.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-woocommerce-membership": {
+        "name": "YITH WooCommerce Membership",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-membership/",
+        "file": {
+          "yith-woocommerce-membership-premium": "yith-woocommerce-membership-premium/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
