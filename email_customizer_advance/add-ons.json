@@ -697,5 +697,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-multi-vendor-for-woocommerce": {
+    "name": "Yith Multi Vendor For WooCommerce",
+    "description": "Adds support for customizing emails sent by Yith Multi Vendor For WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-multi-vendor-for-woocommerce/edpw-yith-multi-vendor-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-woocommerce-multivendor/",
+    "plugin_file": "edpw-yith-multi-vendor-for-woocommerce/edpw-yith-multi-vendor-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-multi-vendor-for-woocommerce": {
+        "name": "Yith Multi Vendor For WooCommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-multi-vendor/",
+        "file": {
+          "yith-woocommerce-multi-vendor-premium": "yith-woocommerce-multi-vendor-premium/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
