@@ -702,7 +702,7 @@
     "name": "Woocommerce Waitlist",
     "description": "Adds support for customizing emails sent by Woocommerce Waitlist.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-waitlist/edpw-woocommerce-waitlist.png",
-    "download_url": "",
+    "download_url": "https://sparkeditor.com/add-ons/waitlist-for-woocommerce/",
     "plugin_file": "edpw-woocommerce-waitlist/edpw-woocommerce-waitlist.php",
     "document_url": "",
     "page_url": "{addon_page}",
