@@ -775,5 +775,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woocommerce-waitlist": {
+    "name": "Woocommerce Waitlist",
+    "description": "Adds support for customizing emails sent by Woocommerce Waitlist.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-waitlist/edpw-woocommerce-waitlist.png",
+    "download_url": "https://sparkeditor.com/add-ons/waitlist-for-woocommerce/",
+    "plugin_file": "edpw-woocommerce-waitlist/edpw-woocommerce-waitlist.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-woocommerce-waitlist": {
+        "name": "Woocommerce Waitlist",
+        "url": "https://woocommerce.com/products/woocommerce-waitlist/",
+        "file": {
+          "woocommerce-waitlist": "woocommerce-waitlist/woocommerce-waitlist.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
