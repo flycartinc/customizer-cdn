@@ -749,5 +749,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-split-orders": {
+    "name": "Split Orders for WooCommerce",
+    "description": "Adds support for customizing emails sent by Split Orders for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-split-orders/edpw-split-orders.png",
+    "download_url": "https://sparkeditor.com/add-ons/split-orders-for-woocommerce/",
+    "plugin_file": "edpw-split-orders/edpw-split-orders.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-split-orders": {
+        "name": "Split Orders for WooCommerce",
+        "url": "https://woocommerce.com/products/split-orders/",
+        "file": {
+          "split-orders": "split-orders/split-orders.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
