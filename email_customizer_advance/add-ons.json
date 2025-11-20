@@ -723,5 +723,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-yith-pre-order-for-woocommerce": {
+    "name": "YITH Pre-Order for WooCommerce",
+    "description": "Adds support for customizing emails sent by YITH Pre-Order for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-pre-order-for-woocommerce/edpw-yith-pre-order-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/yith-pre-order-for-woocommerce/",
+    "plugin_file": "edpw-yith-pre-order-for-woocommerce/edpw-yith-pre-order-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-yith-pre-order-for-woocommerce": {
+        "name": "YITH Pre-Order for WooCommerce",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-pre-order/",
+        "file": {
+          "yith-pre-order-for-woocommerce": "yith-pre-order-for-woocommerce/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
