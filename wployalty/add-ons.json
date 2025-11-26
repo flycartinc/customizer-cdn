@@ -198,7 +198,7 @@
     "name": "WPLoyalty - Point Sharing",
     "description": "The WPLoyalty Point Sharing Add-on enables Customers to share loyalty points between them.",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-point-sharing/wp-loyalty-point-sharing.png",
-    "download_url": "",
+    "download_url": " ",
     "plugin_file": "wp-loyalty-point-sharing/wp-loyalty-point-sharing.php",
     "document_url": "",
     "page_url": "{addon_page}",
