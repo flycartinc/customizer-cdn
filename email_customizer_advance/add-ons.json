@@ -801,5 +801,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-user-registration-for-woocommerce": {
+    "name": "Custom User Registration Fields For WooCommerce",
+    "description": "Adds support for customizing emails sent by Custom User Registration Fields For WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-user-registration-for-woocommerce/edpw-user-registration-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/addify-custom-user-registration/",
+    "plugin_file": "edpw-user-registration-for-woocommerce/edpw-user-registration-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-user-registration-for-woocommerce": {
+        "name": "Custom User Registration Fields For WooCommerce",
+        "url": "https://woocommerce.com/products/custom-user-registration-fields-for-woocommerce/",
+        "file": {
+          "woocommerce-waitlist": "user-registration-plugin-for-woocommerce/addify-registration-addon-main.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
