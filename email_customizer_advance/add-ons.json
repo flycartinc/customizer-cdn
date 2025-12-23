@@ -832,7 +832,7 @@
     "name": "Yith Recently Viewed Products For Woocommerce",
     "description": "Adds support for customizing emails sent by Yith Recently Viewed Products For Woocommerce.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-recently-viewed-products-for-woocommerce/edpw-yith-recently-viewed-products-for-woocommerce.png",
-    "download_url": "https://sparkeditor.com/add-ons/addify-custom-user-registration/",
+    "download_url": "https://sparkeditor.com/add-ons/yith-woocommerce-recently-viewed-products/",
     "plugin_file": "edpw-yith-recently-viewed-products-for-woocommerce/edpw-yith-recently-viewed-products-for-woocommerce.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -845,7 +845,7 @@
     "dependencies": {
       "edpw-yith-recently-viewed-products-for-woocommerce": {
         "name": "Yith Recently Viewed Products For Woocommerce",
-        "url": "https://sparkeditor.com/add-ons/yith-woocommerce-recently-viewed-products/",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-recently-viewed-products/",
         "file": {
           "woocommerce-waitlist": "yith-woocommerce-recently-viewed-products-premium/init.php"
         }
@@ -858,7 +858,7 @@
     "name": "YITH Waiting List For WooCommerce",
     "description": "Adds support for customizing emails sent by YITH Waiting List For WooCommerce.",
     "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-yith-waiting-list-for-woocommerce/edpw-yith-waiting-list-for-woocommerce.png",
-    "download_url": "https://sparkeditor.com/add-ons/addify-custom-user-registration/",
+    "download_url": "https://sparkeditor.com/add-ons/yith-woocommerce-waitlist/",
     "plugin_file": "edpw-yith-waiting-list-for-woocommerce/edpw-yith-waiting-list-for-woocommerce.php",
     "document_url": "",
     "page_url": "{addon_page}",
@@ -871,7 +871,7 @@
     "dependencies": {
       "edpw-yith-waiting-list-for-woocommerce": {
         "name": "YITH Waiting List For WooCommerce",
-        "url": "https://sparkeditor.com/add-ons/yith-woocommerce-waitlist/",
+        "url": "https://yithemes.com/themes/plugins/yith-woocommerce-waiting-list/",
         "file": {
           "woocommerce-waitlist": "yith-woocommerce-waiting-list-premium/init.php"
         }
