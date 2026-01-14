@@ -821,7 +821,7 @@
         "name": "Custom User Registration Fields For WooCommerce",
         "url": "https://woocommerce.com/products/custom-user-registration-fields-for-woocommerce/",
         "file": {
-          "woocommerce-waitlist": "user-registration-plugin-for-woocommerce/addify-registration-addon-main.php"
+          "user-registration-for-woocommerce": "user-registration-plugin-for-woocommerce/addify-registration-addon-main.php"
         }
       }
     },
@@ -847,7 +847,7 @@
         "name": "Yith Recently Viewed Products For Woocommerce",
         "url": "https://yithemes.com/themes/plugins/yith-woocommerce-recently-viewed-products/",
         "file": {
-          "woocommerce-waitlist": "yith-woocommerce-recently-viewed-products-premium/init.php"
+          "yith-recently-viewed-products-for-woocommerce": "yith-woocommerce-recently-viewed-products-premium/init.php"
         }
       }
     },
@@ -873,7 +873,33 @@
         "name": "YITH Waiting List For WooCommerce",
         "url": "https://yithemes.com/themes/plugins/yith-woocommerce-waiting-list/",
         "file": {
-          "woocommerce-waitlist": "yith-woocommerce-waiting-list-premium/init.php"
+          "yith-waiting-list-for-woocommerce": "yith-woocommerce-waiting-list-premium/init.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
+  },
+  "edpw-license-manager-for-woocommerce": {
+    "name": "License Manager For Woocommerce",
+    "description": "Adds support for customizing emails sent by License Manager For Woocommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-license-manager-for-woocommerce/edpw-license-manager-for-woocommerce.png",
+    "download_url": "https://sparkeditor.com/add-ons/license-manager-for-woocommerce/",
+    "plugin_file": "edpw-license-manager-for-woocommerce/edpw-license-manager-for-woocommerce.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-license-manager-for-woocommerce": {
+        "name": "License Manager For Woocommerce",
+        "url": "https://woocommerce.com/products/license-manager-for-woocommerce/",
+        "file": {
+          "license-manager-for-woocommerce": "license-manager-for-woocommerce/license-manager-for-woocommerce.php"
         }
       }
     },
