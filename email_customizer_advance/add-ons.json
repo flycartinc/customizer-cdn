@@ -905,5 +905,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-woocommerce-order-proposal": {
+    "name": "Woocommerce Order Proposal",
+    "description": "Adds support for customizing emails sent by Woocommerce Order Proposal.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-woocommerce-order-proposal/edpw-woocommerce-order-proposal.png",
+    "download_url": "https://sparkeditor.com/add-ons/woocommerce-order-proposal/",
+    "plugin_file": "edpw-woocommerce-order-proposal/edpw-woocommerce-order-proposal.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-woocommerce-order-proposal": {
+        "name": "Woocommerce Order Proposal",
+        "url": "https://wpovernight.com/downloads/woocommerce-order-proposal/",
+        "file": {
+          "woocommerce-order-proposal": "woocommerce-order-proposal/woocommerce-order-proposal.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
