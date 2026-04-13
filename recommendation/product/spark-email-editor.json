@@ -26,24 +26,6 @@
     "banner_image": "https://static.flycart.net/recommendation/image/upsellwp.png",
     "primary_color": "#012359"
   },
-  "wpbundle": {
-    "name": "WPBundle - Product Bundles",
-    "author": "WPBundle",
-    "description": "Boost your order value by creating and selling product bundles. The plugin helps you create 4 types of bundles - fixed, cross-sell, dynamic bundles based on conditions, build-your-box (mix and match) bundles - to drive more revenue per purchase.",
-    "icon_url": "https://static.flycart.net/recommendation/icons/wpbundle.png",
-    "plugin_url": "https://wpbundle.net/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
-    "banner_image": "https://static.flycart.net/recommendation/image/wpbundle.png",
-    "primary_color": "#10AC5B"
-  },
-  "relay": {
-    "name": "Relay - Affiliate Marketing",
-    "author": "WPRelay",
-    "description": "Supercharge your WooCommerce affiliate marketing – manage affiliates, their referrals, track sales, and automate payouts with Relay effortlessly! Create unlimited affiliate & customer referral programs to drive word-of-mouth sales.",
-    "icon_url": "https://static.flycart.net/recommendation/icons/wprelay.png",
-    "plugin_url": "https://wprelay.com/?utm_campaign=recommended&utm_source=spark-email-editor&utm_medium={site-name}",
-    "banner_image": "https://static.flycart.net/recommendation/image/wprelay.png",
-    "primary_color": "#257AE9"
-  },
   "retainful": {
     "name": "Retainful - Email Marketing & Cart Recovery",
     "author": "Retainful",
