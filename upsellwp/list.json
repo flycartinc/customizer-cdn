@@ -2,11 +2,11 @@
   "mini_cart": {
     "name": "Side Cart",
     "author": "UpsellWP",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "Helpful to effortlessly add, view, and manage items on any pages in your store.",
     "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-mini-cart/upsellwp-mini-cart.png",
     "plugin_url": "https://upsellwp.com/add-ons/woocommerce-side-cart",
-    "download_url": "https://downloads.wordpress.org/plugin/upsellwp-mini-cart.1.0.2.zip",
+    "download_url": "https://downloads.wordpress.org/plugin/upsellwp-mini-cart.zip",
     "plugin_file": "upsellwp-mini-cart/upsellwp-mini-cart.php",
     "page_url": "{admin_url}admin.php?page=upsellwp-mini-cart",
     "settings_url": "",
