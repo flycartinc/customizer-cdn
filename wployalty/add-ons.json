@@ -217,7 +217,7 @@
     "name": "WPLoyalty - Mailchimp Integration",
     "description": "The WPLoyalty Mailchimp Integration Add-on integrates WPLoyalty with your Mailchimp.",
     "icon_url": "https://static.flycart.net/wployalty/image/add-ons/wp-loyalty-mailchimp-integration/wp-loyalty-mailchimp-integration.png",
-    "download_url": "",
+    "download_url": "https://wployalty.net/add-ons/wployalty-mailchimp-integration/?utm_campaign=add-on-page&utm_medium=plugin-add-on&utm_source=wployalty-plugin",
     "plugin_file": "wp-loyalty-mailchimp-integration/wp-loyalty-mailchimp-integration.php",
     "document_url": "",
     "page_url": "{addon_page}",
