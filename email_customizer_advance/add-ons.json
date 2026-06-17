@@ -947,11 +947,11 @@
       "eca_pro": ""
     },
     "dependencies": {
-      "edpw-woocommerce-order-proposal": {
+      "edpw-back-in-stock-notifier": {
         "name": "Back In Stock Notifier for WooCommerce",
         "url": "https://wordpress.org/plugins/back-in-stock-notifier-for-woocommerce/",
         "file": {
-          "woocommerce-order-proposal": "back-in-stock-notifier-for-woocommerce/cwginstocknotifier.php"
+          "back-in-stock-notifier": "back-in-stock-notifier-for-woocommerce/cwginstocknotifier.php"
         }
       }
     },
