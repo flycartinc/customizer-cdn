@@ -931,5 +931,31 @@
     },
     "is_pro": true,
     "is_external": true
+  },
+  "edpw-back-in-stock-notifier": {
+    "name": "Back In Stock Notifier for WooCommerce",
+    "description": "Adds support for customizing emails sent by Back In Stock Notifier for WooCommerce.",
+    "icon_url": "https://static.flycart.net/email_customizer_advance/image/add-ons/edpw-back-in-stock-notifier/edpw-back-in-stock-notifier.png",
+    "download_url": "https://sparkeditor.com/add-ons/back-in-stock-notifier-for-woocommerce/",
+    "plugin_file": "edpw-back-in-stock-notifier/edpw-back-in-stock-notifier.php",
+    "document_url": "",
+    "page_url": "{addon_page}",
+    "requires": {
+      "wp": "",
+      "wc": "",
+      "eca_core": "",
+      "eca_pro": ""
+    },
+    "dependencies": {
+      "edpw-woocommerce-order-proposal": {
+        "name": "Back In Stock Notifier for WooCommerce",
+        "url": "https://wordpress.org/plugins/back-in-stock-notifier-for-woocommerce/",
+        "file": {
+          "woocommerce-order-proposal": "back-in-stock-notifier-for-woocommerce/cwginstocknotifier.php"
+        }
+      }
+    },
+    "is_pro": true,
+    "is_external": true
   }
 }
